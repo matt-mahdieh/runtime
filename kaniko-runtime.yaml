@@ -1,5 +1,5 @@
 apiVersion: build.knative.dev/v1alpha1
-kind: ClusterBuildTemplate
+kind: BuildTemplate
 metadata:
   name: kaniko
 spec:
